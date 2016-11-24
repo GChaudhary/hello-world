@@ -9,6 +9,6 @@ see u soon
 Another commit on master Branch
 Commit via TERMINAL
 
-#Change in master (via CHROME) to be pulled
+#Change in master to be pulled
 
 #Gtm
