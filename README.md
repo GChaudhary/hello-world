@@ -7,5 +7,6 @@ see u soon
 
 *This is a commit on master branch*
 Another commit on master Branch
+Commit via TERMINAL
 
 #Gtm
