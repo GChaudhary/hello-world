@@ -2,11 +2,7 @@
 This is just a demo.
 **one_branch**
 
-$TwirlDance
-
-*This is a commit on master branch*
-Another commit on master Branch
-Commit via TERMINAL
+$ONLY_INDIAN_Dance
 
 #Change in master to be pulled
 
