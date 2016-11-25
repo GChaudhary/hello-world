@@ -2,7 +2,7 @@
 This is just a demo.
 **one_branch**
 
-$RainbowDance
+$TwirlDance
 
 *This is a commit on master branch*
 Another commit on master Branch
